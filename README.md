@@ -26,7 +26,7 @@ The app is developed using React.js and material-UI.
 
 ## ⚡ Install
 
-- Clone the repository: 
+- Clone the repository: https://github.com/shashiv367/React_Weather_Forecast.git
 
 ```bash
 git clone 
